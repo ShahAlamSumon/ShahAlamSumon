@@ -9,7 +9,7 @@
     💻 I’m currently working as Project Manager 🚀.
     🧩 Interested in: Technology, Software Development, Food, Travelling, Football, Driving.
     💡 Equipments: Sarcasm, Knowledge, Team Player, Trust!
-    ⚡  Fun fact Love to learn and Love the people!
+    ⚡ Fun fact Love to learn and Love the people!
 
 🛠 I have worked with 
 ======================
