@@ -1,3 +1,11 @@
-# shahalamsumonprofile
-This is for profile information
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+# Hello 🤝, This is Sumon
+
+⚙️ Personal Stuffs
+
+    👨‍💻 Portfolio https://github.com/ShahAlamSumon/
+    👨‍🎓 Experience Level: 7+ years
+    💻 I’m currently working as Project Manager 🚀.
+    🧩 Interested in: Technology, Software Development, Travelling, Football, Driving.
+    💡 Equipments: Sarcasm, Knowledge, Python, HTML, CSS, Javascript, Odoo, Linux!
+    ⚡ Fun fact Love to learn new things
+
