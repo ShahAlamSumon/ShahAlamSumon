@@ -3,6 +3,7 @@
 [![My Image](img/linkedin.svg)](https://github.com/ShahAlamSumon)
 [![My Image](img/resume.svg)](https://github.com/ShahAlamSumon/ShahAlamSumon/blob/main/ShahAlamSumonCV.pdf)
 
+
 ⚙️ Personal Stuffs
 ==================
     👨‍🎓 Experience Level: 7+ years
@@ -11,15 +12,18 @@
     💡 Equipments: Sarcasm, Knowledge, Team Player, Trust!
     ⚡ Fun fact Love to learn and Love the people!
 
-🛠 I have worked with 
-======================
-
-![linux.png](img%2Flinux.png)
-![erp.png](img%2Ferp.png)
-![python.png](img%2Fpython.png)
-![html.png](img%2Fhtml.png)
-![css.png](img%2Fcss.png)
-![javascript.png](img%2Fjavascript.png)
-![postgre.png](img%2Fpostgre.png)
-![sql.png](img%2Fsql.png)
-![bootstrap.png](img%2Fbootstrap.png)
+🛠 Expert In:
+=============
+![odoo.svg](img%2Ficons%2Fodoo.svg)
+![python.svg](img%2Ficons%2Fpython.svg)
+![django.svg](img%2Ficons%2Fdjango.svg)
+![javascript.svg](img%2Ficons%2Fjavascript.svg)
+![bootstrap.svg](img%2Ficons%2Fbootstrap.svg)
+![html.svg](img%2Ficons%2Fhtml.svg)
+![css.svg](img%2Ficons%2Fcss.svg)
+![postgres.svg](img%2Ficons%2Fpostgres.svg)
+![aws.svg](img%2Ficons%2Faws.svg)
+![linux.svg](img%2Ficons%2Flinux.svg)
+![ubuntu.svg](img%2Ficons%2Fubuntu.svg)
+![git.svg](img%2Ficons%2Fgit.svg)
+![github.svg](img%2Ficons%2Fgithub.svg)
