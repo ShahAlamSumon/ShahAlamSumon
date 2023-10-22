@@ -3,15 +3,6 @@
 [![My Image](img/linkedin.svg)](https://github.com/ShahAlamSumon)
 [![My Image](img/resume.svg)](https://github.com/ShahAlamSumon/ShahAlamSumon/blob/main/ShahAlamSumonCV.pdf)
 
-
-⚙️ Personal Stuffs
-==================
-    👨‍🎓 Experience Level: 7+ years
-    💻 I’m currently working as Project Manager 🚀.
-    🧩 Interested in: Technology, Software Development, Food, Travelling, Football, Driving.
-    💡 Equipments: Sarcasm, Knowledge, Team Player, Trust!
-    ⚡ Fun fact Love to learn and Love the people!
-
 🛠 Expert In:
 =============
 ![odoo.svg](img%2Ficons%2Fodoo.svg)
@@ -27,3 +18,12 @@
 ![ubuntu.svg](img%2Ficons%2Fubuntu.svg)
 ![git.svg](img%2Ficons%2Fgit.svg)
 ![github.svg](img%2Ficons%2Fgithub.svg)
+
+⚙️ Personal Stuffs
+==================
+    👨‍🎓 Experience Level: 7+ years
+    💻 I’m currently working as Lead software developer 🚀. Also experienced as Project Manager.
+    🧩 Interested in: Technology, Software Development, Food, Travelling, Football, Driving.
+    💡 Equipments: Sarcasm, Knowledge, Team Player, Trust!
+    ⚡ Fun fact Love to learn and Love the people!
+
