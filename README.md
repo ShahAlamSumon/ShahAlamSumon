@@ -1,6 +1,6 @@
 # Hello 🤝, This is Sumon
 
-[![My Image](img/linkedin.svg)](https://github.com/ShahAlamSumon)
+[![My Image](img/linkedin.svg)](https://www.linkedin.com/in/shah-alam-sumon)
 [![My Image](img/resume.svg)](https://github.com/ShahAlamSumon/ShahAlamSumon/blob/main/ShahAlamSumonCV.pdf)
 
 🛠 Expert In:
@@ -21,9 +21,9 @@
 
 ⚙️ Personal Stuffs
 ==================
-    👨‍🎓 Experience Level: 7+ years
+    👨‍🎓 Experience Level: 8+ years
     💻 I’m currently working as Lead software developer 🚀. Also experienced as Project Manager.
     🧩 Interested in: Technology, Software Development, Food, Travelling, Football, Driving.
     💡 Equipments: Sarcasm, Knowledge, Team Player, Trust!
-    ⚡ Fun fact Love to learn and Love the people!
+    ⚡  Fun fact Love to learn and Love the people!
 
