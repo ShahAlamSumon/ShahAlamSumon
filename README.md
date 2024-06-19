@@ -1,9 +1,7 @@
-[//]: # (<a href="https://komarev.com/ghpvc/?username=ShahAlamSumon">)
-
-[//]: # (  <img align="right" src="https://komarev.com/ghpvc/?username=ShahAlamSumon&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile visitor" />)
-
-[//]: # (</a>)
-
+<a href="https://komarev.com/ghpvc/?username=ShahAlamSumon">
+  <img align="left" src="https://komarev.com/ghpvc/?username=ShahAlamSumon&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile visitor" />
+</a>
+<br/>
 <!-- Intro  -->
 <h3 align="center">
         <samp>< Hey There! 🤝, I am
