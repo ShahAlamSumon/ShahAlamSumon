@@ -1,7 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=ShahAlamSumon">
-  <img align="left" src="https://komarev.com/ghpvc/?username=ShahAlamSumon&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile visitor" />
-</a>
-<br/>
 <!-- Intro  -->
 <h3 align="center">
         <samp>< Hey There! 🤝, I am
@@ -65,7 +61,7 @@ Computer Science & Engineering from Northern University of Bangladesh.
 <h2 align="center">
     Github Analytics
 </h2>
-<hr/>
+
 <p align="center">
   <a href="https://github.com/ShahAlamSumon">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahAlamSumon&theme=radical&border=7F3FBF&background=0D1117" alt="Shah Alam Sumon's GitHub streak"/>
@@ -84,3 +80,10 @@ Computer Science & Engineering from Northern University of Bangladesh.
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShahAlamSumon&layout=compact&langs_count=20&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
+<hr/>
+
+[//]: # (<a href="https://komarev.com/ghpvc/?username=ShahAlamSumon">)
+
+[//]: # (  <img align="center" src="https://komarev.com/ghpvc/?username=ShahAlamSumon&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile visitor" />)
+
+[//]: # (</a>)
