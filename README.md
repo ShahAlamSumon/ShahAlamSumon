@@ -1,9 +1,9 @@
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
         <samp>< Hey There! 🤝, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/shah-alam-sumon">Shah Alam Sumon</a> /> </b>
         </samp>
-</h3>
+</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/shah-alam-sumon" target="_blank">
@@ -82,8 +82,9 @@ Computer Science & Engineering from Northern University of Bangladesh.
 </p>
 <hr/>
 
-[//]: # (<a href="https://komarev.com/ghpvc/?username=ShahAlamSumon">)
+<div align="center">
 
-[//]: # (  <img align="center" src="https://komarev.com/ghpvc/?username=ShahAlamSumon&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile visitor" />)
+[![Visits](https://komarev.com/ghpvc/?username=ShahAlamSumon&label=Github%20Profile%20Visits&color=blueviolet&logo=github&style=flat-square)](https://github.com/ShahAlamSumon)
+[![GitHub Followers](https://img.shields.io/github/followers/ShahAlamSumon?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/ShahAlamSumon)
 
-[//]: # (</a>)
+</div>
