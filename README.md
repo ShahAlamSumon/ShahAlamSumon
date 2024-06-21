@@ -15,7 +15,10 @@
     <a href="mailto:sacsesumon@gmail.com">
         <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
-</p>
+    <a href="https://apps.odoo.com/apps/modules/browse?author=Shah%20Alam%20Sumon" target="_blank">
+        <img alt="My Apps" title="My Apps" src="https://img.shields.io/badge/-My%20Apps-2962FF?style=for-the-badge&logo=koding&logoColor=white&color=purple"/>
+    </a>    
+
 <hr/>
 
 # About me
@@ -35,20 +38,11 @@ Computer Science & Engineering from Northern University of Bangladesh.
 
 🛠 Expert In:
 =============
-![odoo.svg](img%2Ficons%2Fodoo.svg)
-![python.svg](img%2Ficons%2Fpython.svg)
-![django.svg](img%2Ficons%2Fdjango.svg)
-![javascript.svg](img%2Ficons%2Fjavascript.svg)
-![bootstrap.svg](img%2Ficons%2Fbootstrap.svg)
-![html.svg](img%2Ficons%2Fhtml.svg)
-![css.svg](img%2Ficons%2Fcss.svg)
-![postgres.svg](img%2Ficons%2Fpostgres.svg)
-![aws.svg](img%2Ficons%2Faws.svg)
-![linux.svg](img%2Ficons%2Flinux.svg)
-![ubuntu.svg](img%2Ficons%2Fubuntu.svg)
-![git.svg](img%2Ficons%2Fgit.svg)
-![github.svg](img%2Ficons%2Fgithub.svg)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,htmx,bootstrap,css,sass,less,d3,regex,django,matlab,opencv,sklearn,bash,vim,powershell,postgres,mysql,mongodb,aws,docker,jenkins,nginx,postman,git,github,gitlab,bitbucket,pycharm,sublime,visualstudio,vscode,atom,anaconda,debian,ubuntu,windows,apple"/>
+  </a>
+</p>
 
 ⚙️ Personal Stuffs
 ==================
@@ -88,3 +82,4 @@ Computer Science & Engineering from Northern University of Bangladesh.
 [![GitHub Followers](https://img.shields.io/github/followers/ShahAlamSumon?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/ShahAlamSumon)
 
 </div>
+
